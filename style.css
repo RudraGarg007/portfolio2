@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(66, 7, 95);
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(66, 19, 109);
+    display:flex;
+    justify-content: space-between;
+}
